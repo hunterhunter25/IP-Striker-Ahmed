@@ -23,15 +23,15 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/jowner526202-hash/IP-Striker-Ahmed.git](https://github.com/jowner526202-hash/IP-Striker-Ahmed.git)
+git clon [https://github.com/jowner526202-hash/IP-Striker-Ahmed.git
 cd IP-Striker-Ahmed
-python ahmed_striker.py
+python IP-Striker-Ahmed
 
 
 ثانياً: مستخدمي Kali Linux / Ubuntu
 افتح الطرفية (Terminal) وقم بتنفيذ ما يلي:
 sudo apt update && sudo apt install python3-pip git -y
-git clone [https://github.com/jowner526202-hash/IP-Striker-Ahmed.git](https://github.com/jowner526202-hash/IP-Striker-Ahmed.git)
+git clone [https://github.com/jowner526202-hash/IP-Striker-Ahmed.git
 cd IP-Striker-Ahmed
 pip3 install requests
-python3 ahmed_striker.py
+python3 IP-Striker-Ahmed
