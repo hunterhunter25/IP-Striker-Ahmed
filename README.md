@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jowner526202-hash/Official-reporting-forms/main/security-banner.png" width="100%">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/stars/jowner526202-hash/IP-Striker-Ahmed?style=for-the-badge&color=blue" alt="Stars">
+<img src="https://img.shields.io/github/forks/jowner526202-hash/IP-Striker-Ahmed?style=for-the-badge&color=green" alt="Forks">
+</p>
+
+---
+
+
 # 🛡️ AHMED-STRIKER-V2 
 ### Intelligence IP Tracking & OSINT System
 ![Version](https://img.shields.io/badge/Version-2.0.0-cyan) ![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Kali%20Linux-green)
