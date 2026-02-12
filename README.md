@@ -35,7 +35,7 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clon https://github.com/ahmadshh208/IP-Striker-Ahmed.git
+git clon https://github.com/hunterhunter25/IP-Striker-Ahmed.git
 cd IP-Striker-Ahmed
 python IP-Striker-Ahmed
 
@@ -43,7 +43,7 @@ python IP-Striker-Ahmed
 ثانياً: مستخدمي Kali Linux / Ubuntu
 افتح الطرفية (Terminal) وقم بتنفيذ ما يلي:
 sudo apt update && sudo apt install python3-pip git -y
-git clone https://github.com/ahmadshh208/IP-Striker-Ahmed.git
+git clone https://github.com/hunterhunter25/IP-Striker-Ahmed.git
 cd IP-Striker-Ahmed
 pip3 install requests
 python3 IP-Striker-Ahmed
